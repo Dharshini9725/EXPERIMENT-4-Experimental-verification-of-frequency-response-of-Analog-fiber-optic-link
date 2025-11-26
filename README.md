@@ -1,4 +1,4 @@
-<img width="1097" height="704" alt="image" src="https://github.com/user-attachments/assets/fde25af7-6b64-4f83-b6a1-32fe72c91027" />
+
 # Exp 4 Experimental verification of frequency response of Analog fiber optic link
 # Fiber Optic Link Analysis (660nm)
 
